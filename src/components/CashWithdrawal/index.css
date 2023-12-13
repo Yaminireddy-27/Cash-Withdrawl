@@ -1,0 +1,76 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.withdrawl-card {
+  background-color: #150b3e;
+  border-radius: 20px;
+  padding: 30px;
+  width: 60%;
+}
+
+.profile-holder {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.profile {
+  background-color: #c7d2fe;
+  height: 100px;
+  width: 100px;
+  border-radius: 200px;
+  color: #7c3aed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  font-size: 25px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 45px;
+  color: #d4d2db;
+  font-weight: normal;
+}
+
+.balance {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #585076;
+}
+
+.amount {
+  font-family: 'Roboto';
+  font-size: 50px;
+  color: #d4d2db;
+  font-weight: 500;
+}
+
+.rupees {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #585076;
+}
+
+.balance-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}

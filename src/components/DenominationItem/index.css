@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list {
+  padding: none;
+  margin: none;
+}
+.button {
+  background-color: #382f5a;
+  border: 2px solid #d4d2db;
+  border-radius: 5px;
+  margin-bottom: 19px;
+  margin-right: 19px;
+  font-size: 50px;
+  color: #d4d2db;
+  width: 310px;
+  text-align: center;
+  padding: 5px;
+}
